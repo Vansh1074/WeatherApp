@@ -4,11 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Installation
 ## Backend
-### 'pip install flask flask-cors flask-caching requests python-dotenv'
+
+### `pip install flask flask-cors flask-caching requests python-dotenv`
 
 ## Frontend
-### 'npm install @mui/material @emotion/react @emotion/styled @mui/icons-material'
-### 'npm install  @fortawesome/react-fontawesome@latest @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons'
+
+### `npm install @mui/material @emotion/react @emotion/styled @mui/icons-material`
+
+### `npm install  @fortawesome/react-fontawesome@latest @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons`
 
 ## Available Scripts
 
